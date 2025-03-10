@@ -1,0 +1,17 @@
+---
+layout: page
+title: Committee
+permalink: committee/
+---
+<h3>Workshop Organizers</h3>
+
+* Andrei Ciortea, University of St. Gallen, Switzerland
+* Rem Collier, University College Dublin, Ireland
+* Fabien Gandon, Inria, Université Côte d'Azur, CNRS, I3S, France
+* Andreas Harth, Friedrich-Alexander-Universität Erlangen-Nürnberg and Fraunhofer IIS, Germany
+* Antoine Zimmermann, MINES Saint-Étienne, France
+
+
+<h3>Program Committee</h3>
+
+TBA
