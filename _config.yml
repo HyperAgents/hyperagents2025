@@ -22,7 +22,7 @@ title: HyperAgents 2025
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Weaving a Web for People and Artificial Agents
-baseurl: "/hyperagents2025" # the subpath of your site, e.g. /blog
+# baseurl: "/hyperagents2025" # the subpath of your site, e.g. /blog
 url: "https://hyperagents.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: hyperagents
 # github_username:  jekyll

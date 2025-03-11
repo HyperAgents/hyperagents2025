@@ -6,7 +6,7 @@
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
 
     <div style="float: left;">
-      <a href="/hyperagents2025/"><img src="/hyperagents2025/assets/logo2025-green.png" style="height: 60px;" /></a>
+      <a href="/"><img src="/assets/logo2025-green.png" style="height: 60px;" /></a>
       <!-- <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>-->
     </div>
 
@@ -22,7 +22,7 @@
         </label>
 
         <div class="trigger">
-          <a class="page-link" href="/hyperagents2025/">About</a>
+          <a class="page-link" href="/">About</a>
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
             {%- if my_page.title -%}
