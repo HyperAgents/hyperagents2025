@@ -3,13 +3,13 @@ layout: page
 title: Call for Papers
 permalink: cfp/
 ---
-The impressive wave of recent advances in Generative AI has brought new capabilities and renewed interest in autonomous agents and multi-agent systems—with many new frameworks available for rapid prototyping, for example, using agentic workflows based on language models. Furthermore, progress in the [Web of Things](https://www.w3.org/WoT/wg/) and [Distributed Knowledge Graphs](https://cost-dkg.eu/) is now turning the Web into a homogeneous hypermedia fabric that extends to the physical world to interconnect everything—devices, information resources, abstract concepts, etc. The latest standards allow autonomous agents not only to browse and query but also to observe and act on this hypermedia fabric. These advancements implement several visionary ideas expressed in the motivating scenarios from the [original Semantic Web paper](https://doi.org/10.1145/3591366.3591376)—and unlock [new practical use cases and perspectives](https://dl.acm.org/doi/abs/10.5555/3306127.3331893) for integrating multi-agent systems with the Web.
+The impressive wave of recent advances in Generative AI has brought new capabilities and renewed interest in autonomous agents and multi-agent systems—with many new frameworks available for rapid prototyping, for example, using agentic workflows based on language models. Furthermore, progress in the [Web of Things](https://www.w3.org/WoT/wg/){:target="_blank"} and [Distributed Knowledge Graphs](https://cost-dkg.eu/){:target="_blank"} is now turning the Web into a homogeneous hypermedia fabric that extends to the physical world to interconnect everything—devices, information resources, abstract concepts, etc. The latest standards allow autonomous agents not only to browse and query but also to observe and act on this hypermedia fabric. These advancements implement several visionary ideas expressed in the motivating scenarios from the [original Semantic Web paper](https://doi.org/10.1145/3591366.3591376){:target="_blank"}—and unlock [new practical use cases and perspectives](https://dl.acm.org/doi/abs/10.5555/3306127.3331893){:target="_blank"} for integrating multi-agent systems with the Web.
 
 Central to these developments is the _**flexible, autonomous use of hypermedia**_—for example, to _**discover**_ and _**use**_ knowledge, device functionality, or tools. HyperAgents 2025 invites contributions related to all aspects of enabling and governing systems of autonomous agents in _**open hypermedia environments**_---that is, systems of agents able to _**perceive**_, _**decide**_, and _**act**_ through the Web to _**achieve goals**_. We refer to such systems as **Hypermedia Multi-Agent Systems**.
 
 The primary objective of this workshop is to establish a common forum for both the AI and Web communities with a focus on autonomous agents on the Web—and to create social, conceptual, and technological bridges across these fields. We invite researchers and practitioners to imagine, design, build, evaluate, and share their thoughts and visions on the future of the Web for both people and autonomous agents.
 
-The workshop is the fourth event in a series of events after the [Dagstuhl Seminar 23081](https://www.dagstuhl.de/23081) (Feb. 2023), [Dagstuhl Seminar 21702](https://www.dagstuhl.de/21072) (Feb. 2021), and [HyperAgents 2019](http://www2019.hyperagents.org) (Feb. 2019). We intend to co-locate the workshop with a face-to-face meeting of the [W3C WebAgents Community Group](https://www.w3.org/community/webagents/).
+The workshop is the fourth event in a series of events after the [Dagstuhl Seminar 23081](https://www.dagstuhl.de/23081){:target="_blank"} (Feb. 2023), [Dagstuhl Seminar 21702](https://www.dagstuhl.de/21072){:target="_blank"} (Feb. 2021), and [HyperAgents 2019](http://www2019.hyperagents.org){:target="_blank"} (Feb. 2019). We intend to co-locate the workshop with a face-to-face meeting of the [W3C WebAgents Community Group](https://www.w3.org/community/webagents/){:target="_blank"}.
 
 ## Important Dates
 
@@ -58,7 +58,7 @@ The themes and topics of interest include, but are not limited to:
 
 ## Submissions
 
-Submission website: [https://easychair.org/conferences/?conf=hyperagents2025](https://easychair.org/conferences/?conf=hyperagents2025)
+Submission website: [https://easychair.org/conferences/?conf=hyperagents2025](https://easychair.org/conferences/?conf=hyperagents2025){:target="_blank"}
 
 Submissions must cover one of the proposed workshop topics to ensure a high-quality technical session. We solicit two types of papers:
 * **regular papers**: should present innovative research, a critical survey on a relevant topic, or an application to a real-world use case (max. 12 pages excl. references and annexes, [CEURART style format](https://ceur-ws.org/HOWTOSUBMIT.html#CEURART){:target="_blank"});
