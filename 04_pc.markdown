@@ -26,7 +26,7 @@ permalink: committee/
 * Rem Collier, University College Dublin (Ireland)
 * Stephen Cranefield, University of Otago (New Zealand)
 * Mehdi Dastani, Utrecht University (Netherlands)
-* Jérôme Euzenat, INRIA (France)
+* Jérôme Euzenat, Inria (France)
 * Catherine Faron, Inria, Université Côte d’Azur, CNRS, I3S (France)
 * Fabien Gandon, Inria, Université Côte d’Azur, CNRS, I3S (France)
 * Andreas Harth, Friedrich-Alexander-Universität Erlangen-Nürnberg and Fraunhofer IIS (Germany)
