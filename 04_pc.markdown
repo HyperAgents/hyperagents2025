@@ -18,7 +18,7 @@ permalink: committee/
 * Daniela Briola, University of Milano Bicocca (Italy)
 * Samuele Burattini, University of Bologna (Italy)
 * Jean-Paul Calbimonte, HES-SO (Switzerland)
-* Riccardo Cantini, University of Calabria,Italy
+* Riccardo Cantini, University of Calabria (Italy)
 * Pierre-Antoine Champin, W3C (France)
 * Victor Charpenay, MINES Saint-Étienne (France)
 * Amit Chopra, Lancaster University (United Kingdom)
