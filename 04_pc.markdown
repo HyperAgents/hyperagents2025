@@ -5,13 +5,50 @@ permalink: committee/
 ---
 <h3>Workshop Organizers</h3>
 
-* [Andrei Ciortea](http://www.andreiciortea.ro/){:target="_blank"}, University of St. Gallen, Switzerland
-* [Rem Collier](https://people.ucd.ie/rem.collier){:target="_blank"}, University College Dublin, Ireland
-* [Fabien Gandon](http://fabien.info/){:target="_blank"}, Inria, Université Côte d'Azur, CNRS, I3S, France
-* [Andreas Harth](https://harth.org/andreas/){:target="_blank"}, Friedrich-Alexander-Universität Erlangen-Nürnberg and Fraunhofer IIS, Germany
-* [Antoine Zimmermann](https://www.emse.fr/~zimmermann/){:target="_blank"}, MINES Saint-Étienne, France
+* [Andrei Ciortea](http://www.andreiciortea.ro/){:target="_blank"}, University of St. Gallen (Switzerland)
+* [Rem Collier](https://people.ucd.ie/rem.collier){:target="_blank"}, University College Dublin (Ireland)
+* [Fabien Gandon](http://fabien.info/){:target="_blank"}, Inria, Université Côte d'Azur, CNRS, I3S (France)
+* [Andreas Harth](https://harth.org/andreas/){:target="_blank"}, Friedrich-Alexander-Universität Erlangen-Nürnberg and Fraunhofer IIS (Germany)
+* [Antoine Zimmermann](https://www.emse.fr/~zimmermann/){:target="_blank"}, MINES Saint-Étienne (France)
 
 
 <h3>Program Committee</h3>
 
-TBA
+* Olivier Boissier, MINES Saint-Étienne (France)
+* Daniela Briola, University of Milano Bicocca (Italy)
+* Samuele Burattini, University of Bologna (Italy)
+* Jean-Paul Calbimonte, HES-SO (Switzerland)
+* Riccardo Cantini, University of Calabria,Italy
+* Pierre-Antoine Champin, W3C (France)
+* Victor Charpenay, MINES Saint-Étienne (France)
+* Amit Chopra, Lancaster University (United Kingdom)
+* Andrei Ciortea, University of St.Gallen (Switzerland)
+* Rem Collier, University College Dublin (Ireland)
+* Stephen Cranefield, University of Otago (New Zealand)
+* Mehdi Dastani, Utrecht University (Netherlands)
+* Jérôme Euzenat, INRIA (France)
+* Catherine Faron, Inria, Université Côte d’Azur, CNRS, I3S (France)
+* Fabien Gandon, Inria, Université Côte d’Azur, CNRS, I3S (France)
+* Andreas Harth, Friedrich-Alexander-Universität Erlangen-Nürnberg and Fraunhofer IIS (Germany)
+* Koji Hasebe, University of Tsukuba (Japan)
+* Jomi F. Hubner, Federal University of Santa Catarina (Brazil)
+* Timotheus Kampik, SAP, Umeå University (Sweden)
+* Sabrina Kirrane, WU Wien (Austria)
+* Ege Korkan, Siemens (Germany)
+* Tobias Käfer, KIT (Germany)
+* Viviana Mascardi, University of Genova (Italy)
+* Simon Mayer, University of St.Gallen (Switzerland)
+* Luis Gustavo Nardin, MINES Saint-Étienne (France)
+* Matthias Nickles, University of Galway (Ireland)
+* Mahda Noura, Siemens (Germany)
+* Julian Padget, University of Bath (United Kingdom)
+* Terry Payne, University of Liverpool (United Kingdom)
+* Ganesh Ramanathan, Siemens AG (Switzerland)
+* Alessandro Ricci, University of Bologna (Italy)
+* Alexandru Sorici, National Technical University Politehnica of Bucharest (Romania)
+* Ruben Taelman, Ghent University – imec (Belgium)
+* Valentina Tamma, University of Liverpool (United Kingdom)
+* Danai Vachtsevanou, University of St.Gallen (Switzerland)
+* Ruben Verborgh, Ghent University – imec (Belgium)
+* Michael Winikoff, Victoria University of Wellington (New Zealand)
+* Antoine Zimmermann, MINES Saint-Étienne (France)
