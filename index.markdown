@@ -31,5 +31,5 @@ To contribute to HyperAgents 2025, see the [Call for Papers](cfp/).
 | Paper submission deadline: | ~~June 16, 2025~~ June 30, 2025 AoE (UTC-12) |
 | Notification of acceptance: | ~~July 25, 2025~~ August 1, 2025 AoE (UTC-12) |
 | Camera-ready papers due: | September 25, 2025 |
-| Workshop date: | October 26, 2025 (To be confirmed) |
+| Workshop date: | October 26, 2025 (afternoon) |
 |---|---|
