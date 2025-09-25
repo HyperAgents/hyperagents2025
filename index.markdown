@@ -7,7 +7,7 @@ layout: home
 <h1>2nd Workshop on Hypermedia Multi-Agent Systems</h1>
 
 <div style="margin-top: -10px;">
-	<p>In conjunction with <a href="https://ecai2025.org/" target="_blank">ECAI 2025</a> - Bologna, October 25-30, 2025</p>
+	<p>In conjunction with <a href="https://ecai2025.org/" target="_blank">ECAI 2025</a> - Bologna, October 26, 2025</p>
 </div>
 
 <!-- <p style="color:red;"><strong>Papers currently under review for ECAI 2025 cannot be submitted to the workshop. If rejected from ECAI 2025, you may request to consider your paper for inclusion in the HyperAgents 2025 program. Please send your request, including the ECAI 2025 reviews, to <a href="mailto:hyperagents2025@easychair.org">hyperagents2025@easychair.org</a> by July 31, 2025.</strong></p> -->
@@ -31,5 +31,5 @@ To contribute to HyperAgents 2025, see the [Call for Papers](cfp/).
 | Paper submission deadline: | ~~June 16, 2025~~ June 30, 2025 AoE (UTC-12) |
 | Notification of acceptance: | ~~July 25, 2025~~ August 1, 2025 AoE (UTC-12) |
 | Camera-ready papers due: | September 25, 2025 |
-| Workshop date: | October 26, 2025 (To be confirmed) |
+| Workshop date: | October 26, 2025 |
 |---|---|
