@@ -46,11 +46,11 @@ table td:first-child {
     </tr>
     <tr>
         <td>14:00-14:45</td>
-        <td><a href="#session3">Session 3: LLM Support, Integration, and Discovery</a></td>
+        <td><a href="#session3">Session 3: LLM Support and Integration</a></td>
     </tr>
     <tr>
         <td>14:45-15:30</td>
-        <td><a href="#session4">Session 4: Interoperability, Explainability, and Outlook</a></td>
+        <td><a href="#session4">Session 4: Interaction and Explainability</a></td>
     </tr>
     <tr style="background-color: #dddddd">
         <td>15:30-16:00</td>
@@ -168,7 +168,7 @@ table td:first-child {
 <p style="text-align: right;"><a href="#session2" style="padding: 5px 10px; background-color: #8BC34A; color: white; text-decoration: none; border-radius: 3px;">↑ Back to Session</a></p>
 
 
-<h2 id="session3">Session 3: LLM Support, Integration, and Discovery</h2>
+<h2 id="session3">Session 3: LLM Support and Integration</h2>
 
 <p style="text-align: right;"><a href="#top" style="padding: 5px 10px; background-color: #8BC34A; color: white; text-decoration: none; border-radius: 3px;">↑ Back to Program</a></p>
 
@@ -184,7 +184,7 @@ table td:first-child {
     </tr>
     <tr>
         <td>14:30</td>
-        <td><a href="#paper-5">CoCoMaMa: Contextual Combinatorial Multi-Armed Bandit Router for Multi-Agent Systems with Volatile Arms</a> (Jonathan Rau, Jonathan Bader, Philipp Wiesner, and Odej Kao)</td>
+        <td><a href="#paper-12">Converging Hypermedia, Protocols, and Knowledge Architectures: A New Paradigm for Grounded and Interoperable LLM-Agent Systems</a> (Maksim Ilin)</td>
     </tr>
 </table>
 
@@ -206,16 +206,16 @@ table td:first-child {
 <p style="text-align: right;"><a href="#session3" style="padding: 5px 10px; background-color: #8BC34A; color: white; text-decoration: none; border-radius: 3px;">↑ Back to Session</a></p>
 
 
-<h3 id="paper-5">CoCoMaMa: Contextual Combinatorial Multi-Armed Bandit Router for Multi-Agent Systems with Volatile Arms</h3>
+<h3 id="paper-12">Converging Hypermedia, Protocols, and Knowledge Architectures: A New Paradigm for Grounded and Interoperable LLM-Agent Systems</h3>
 
-**Authors:** Jonathan Rau, Jonathan Bader, Philipp Wiesner, and Odej Kao
+**Authors:** Maksim Ilin
 
-**Abstract:** Agentic Large Language Models (LLMs) are designed for specialized objectives using fine-tuning, prompting techniques, and tool calling to outperform general-purpose models in their expert domains. Standardization efforts like the Agent2Agent Protocol could drastically increase the number and heterogeneity of experts available via the Web. A router is required to find the best agent for any given task. However, existing LLM routing methods use a fixed-sized pool of models and often rely on offline training data such as benchmarks. We propose CoCoMaMa and Neural-CoCoMaMa, a combinatorial contextual volatile multi-armed bandit approach that leverages similarities between tasks and agents by learning on online feedback. It can handle volatile arms by incorporating agent cards as defined by the Agent2Agent Protocol without requiring changes to the internal structures or retraining. Our experimental evaluation shows that CoCoMaMa and Neural-CoCoMaMa achieve better results than respective state-of-the-art algorithms using the LLM routing dataset SPROUT and a novel extended version of SPROUT with synthetic specialized agents.
+**Abstract:** The evolution of LLM-powered agents has led to a distinction between single-purpose AI Agents and collaborative Agentic AI systems. While powerful, both face persistent challenges in grounding, interoperability, and governance when operating in open Web environments. This paper argues that a new, more robust paradigm is emerging from a deep convergence of architectural principles and modern standards. We posit that Hypermedia Multi-Agent Systems (HMAS) provide the foundational philosophy for Web-native agency, where the concepts of W3C Web of Things (WoT) "Things" and Model Context Protocol (MCP) "Tools" are unified as complementary specializations of hypermedia-described Web resources with discoverable affordances. This unified view enables the design of advanced Agentic AI systems—composed of autonomous AI Agents grounded in foundational definitions of agency—that can reliably perceive and act upon a rich environmental fabric of physical (WoT) and semantic (DKG) resources. By analyzing this convergence and presenting an illustrative agentic architecture, we demonstrate how this paradigm offers enhanced grounding, true interoperability, and clearer pathways to trustworthy governance, providing a structured approach for developing the next generation of scalable and context-aware autonomous systems.
 
 <p style="text-align: right;"><a href="#session3" style="padding: 5px 10px; background-color: #8BC34A; color: white; text-decoration: none; border-radius: 3px;">↑ Back to Session</a></p>
 
 
-<h2 id="session4">Session 4: Interoperability, Explainability, and Outlook</h2>
+<h2 id="session4">Session 4: Interaction and Explainability</h2>
 
 <p style="text-align: right;"><a href="#top" style="padding: 5px 10px; background-color: #8BC34A; color: white; text-decoration: none; border-radius: 3px;">↑ Back to Program</a></p>
 
@@ -223,17 +223,26 @@ table td:first-child {
     <thead></thead>
     <tr>
         <td>14:45</td>
-        <td><a href="#paper-10">A Vision on Algebraic Flows for Declarative Resource Descriptions</a> (Jitse De Smet, Ruben Verborgh, and Ruben Taelman)</td>
+        <td><a href="#paper-5">CoCoMaMa: Contextual Combinatorial Multi-Armed Bandit Router for Multi-Agent Systems with Volatile Arms</a> (Jonathan Rau, Jonathan Bader, Philipp Wiesner, and Odej Kao)</td>
     </tr>
     <tr>
         <td>15:00</td>
-        <td><a href="#paper-7">Towards an Ontology for Uniform Representations of Agent State for Heterogeneous Inter-Agent Explanations</a> (Katharine Beaumont, Elena Yan, and Rem Collier)</td>
+        <td><a href="#paper-10">A Vision on Algebraic Flows for Declarative Resource Descriptions</a> (Jitse De Smet, Ruben Verborgh, and Ruben Taelman)</td>
     </tr>
     <tr>
         <td>15:15</td>
-        <td><a href="#paper-12">Converging Hypermedia, Protocols, and Knowledge Architectures: A New Paradigm for Grounded and Interoperable LLM-Agent Systems</a> (Maksim Ilin)</td>
+        <td><a href="#paper-7">Towards an Ontology for Uniform Representations of Agent State for Heterogeneous Inter-Agent Explanations</a> (Katharine Beaumont, Elena Yan, and Rem Collier)</td>
     </tr>
 </table>
+
+<h3 id="paper-5">CoCoMaMa: Contextual Combinatorial Multi-Armed Bandit Router for Multi-Agent Systems with Volatile Arms</h3>
+
+**Authors:** Jonathan Rau, Jonathan Bader, Philipp Wiesner, and Odej Kao
+
+**Abstract:** Agentic Large Language Models (LLMs) are designed for specialized objectives using fine-tuning, prompting techniques, and tool calling to outperform general-purpose models in their expert domains. Standardization efforts like the Agent2Agent Protocol could drastically increase the number and heterogeneity of experts available via the Web. A router is required to find the best agent for any given task. However, existing LLM routing methods use a fixed-sized pool of models and often rely on offline training data such as benchmarks. We propose CoCoMaMa and Neural-CoCoMaMa, a combinatorial contextual volatile multi-armed bandit approach that leverages similarities between tasks and agents by learning on online feedback. It can handle volatile arms by incorporating agent cards as defined by the Agent2Agent Protocol without requiring changes to the internal structures or retraining. Our experimental evaluation shows that CoCoMaMa and Neural-CoCoMaMa achieve better results than respective state-of-the-art algorithms using the LLM routing dataset SPROUT and a novel extended version of SPROUT with synthetic specialized agents.
+
+<p style="text-align: right;"><a href="#session4" style="padding: 5px 10px; background-color: #8BC34A; color: white; text-decoration: none; border-radius: 3px;">↑ Back to Session</a></p>
+
 
 <h3 id="paper-10">A Vision on Algebraic Flows for Declarative Resource Descriptions</h3>
 
@@ -249,14 +258,5 @@ table td:first-child {
 **Authors:** Katharine Beaumont, Elena Yan, and Rem Collier
 
 **Abstract:** Inter-agent explanations are an emerging approach to agent communication that enable agents to share their cognitive processes in order to reach mutual understanding. A key challenge is that agents are often heterogeneous, built on different paradigms and architectures, which makes their internal representations difficult to exchange directly. The Semantic Web offers key technologies, in the form of ontologies, that can facilitate interoperability and shared understanding between hypermedia agents operating on the Web. We present work towards providing Agent Abstraction ontologies that would allow hypermedia agents to abstract and exchange information about their cognitive processes as part of inter-agent explanations.
-
-<p style="text-align: right;"><a href="#session4" style="padding: 5px 10px; background-color: #8BC34A; color: white; text-decoration: none; border-radius: 3px;">↑ Back to Session</a></p>
-
-
-<h3 id="paper-12">Converging Hypermedia, Protocols, and Knowledge Architectures: A New Paradigm for Grounded and Interoperable LLM-Agent Systems</h3>
-
-**Authors:** Maksim Ilin
-
-**Abstract:** The evolution of LLM-powered agents has led to a distinction between single-purpose AI Agents and collaborative Agentic AI systems. While powerful, both face persistent challenges in grounding, interoperability, and governance when operating in open Web environments. This paper argues that a new, more robust paradigm is emerging from a deep convergence of architectural principles and modern standards. We posit that Hypermedia Multi-Agent Systems (HMAS) provide the foundational philosophy for Web-native agency, where the concepts of W3C Web of Things (WoT) "Things" and Model Context Protocol (MCP) "Tools" are unified as complementary specializations of hypermedia-described Web resources with discoverable affordances. This unified view enables the design of advanced Agentic AI systems—composed of autonomous AI Agents grounded in foundational definitions of agency—that can reliably perceive and act upon a rich environmental fabric of physical (WoT) and semantic (DKG) resources. By analyzing this convergence and presenting an illustrative agentic architecture, we demonstrate how this paradigm offers enhanced grounding, true interoperability, and clearer pathways to trustworthy governance, providing a structured approach for developing the next generation of scalable and context-aware autonomous systems.
 
 <p style="text-align: right;"><a href="#session4" style="padding: 5px 10px; background-color: #8BC34A; color: white; text-decoration: none; border-radius: 3px;">↑ Back to Session</a></p>

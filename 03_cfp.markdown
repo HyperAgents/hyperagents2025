@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Call for Papers
+title: CFP
 permalink: cfp/
 ---
 <!-- <p style="color:red;"><strong>Papers currently under review for ECAI 2025 cannot be submitted to the workshop. If rejected from ECAI 2025, you may request to consider your paper for inclusion in the HyperAgents 2025 program. Please send your request, including the ECAI 2025 reviews, to <a href="mailto:hyperagents2025@easychair.org">hyperagents2025@easychair.org</a> by July 31, 2025.</strong></p> -->
