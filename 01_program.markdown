@@ -14,54 +14,58 @@ table td:first-child {
 }
 </style>
 
+HyperAgents 2025 is held on <strong>October 26, 2025</strong>, at <a href="https://ecai2025.org/venues/" target="_blank">The Engineering School, University of Bologna</a>. The room will be announced once confirmed.
+
+The workshop will be preceded by <a href="https://github.com/w3c-cg/webagents/tree/main/Meetings/2025-10-25-HyperAgents" target="_blank">a hybrid meeting</a> of the <a href="https://www.w3.org/community/webagents/" target="_blank">W3C WebAgents Community Group</a> on the <strong>afternoon of October 25, 2025</strong> — also at the Engineering School (<strong>Room 5.1</strong>).
+
 <table>
     <thead></thead>
     <tr>
-        <td>09:00-09:15</td>
+        <td>09:00</td>
         <td>Opening and Welcome</td>
     </tr>
     <tr>
-        <td>09:15-10:15</td>
+        <td>09:15</td>
         <td><a href="#keynote-terry">Keynote: Terry R. Payne (University of Liverpool) — TBA</a></td>
     </tr>
     <tr>
-        <td>10:15-10:30</td>
+        <td>10:15</td>
         <td>W3C WebAgents CG</td>
     </tr>
     <tr style="background-color: #dddddd">
-        <td>10:30-11:00</td>
+        <td>10:30</td>
         <td>Coffee Break</td>
     </tr>
     <tr>
-        <td>11:00-11:45</td>
+        <td>11:00</td>
         <td><a href="#session1">Session 1: Agents in Web Environments</a></td>
     </tr>
     <tr>
-        <td>11:45-12:30</td>
+        <td>11:45</td>
         <td><a href="#session2">Session 2: Web of Things, Ambient Intelligence, and Industrial Applications</a></td>
     </tr>
     <tr style="background-color: #dddddd">
-        <td>12:30-14:00</td>
+        <td>12:30</td>
         <td>Lunch</td>
     </tr>
     <tr>
-        <td>14:00-14:45</td>
+        <td>14:00</td>
         <td><a href="#session3">Session 3: LLM Support and Integration</a></td>
     </tr>
     <tr>
-        <td>14:45-15:30</td>
+        <td>14:45</td>
         <td><a href="#session4">Session 4: Interaction and Explainability</a></td>
     </tr>
     <tr style="background-color: #dddddd">
-        <td>15:30-16:00</td>
+        <td>15:30</td>
         <td>Coffee Break</td>
     </tr>
     <tr>
-        <td>16:00-17:00</td>
+        <td>16:00</td>
         <td>Panel (TBA)</td>
     </tr>
     <tr>
-        <td>17:00-17:30</td>
+        <td>17:00</td>
         <td>Community Session: The Road Ahead</td>
     </tr>
 </table>
