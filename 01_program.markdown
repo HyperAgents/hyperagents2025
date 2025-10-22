@@ -26,7 +26,7 @@ The workshop will be preceded by <a href="https://github.com/w3c-cg/webagents/tr
     </tr>
     <tr>
         <td>09:15</td>
-        <td><a href="#keynote-terry">Keynote: Terry R. Payne (University of Liverpool) — TBA</a></td>
+        <td><a href="#keynote-terry">Keynote: Terry R. Payne (University of Liverpool) — Autonomy, the Web and Knowledge-based Services</a></td>
     </tr>
     <tr>
         <td>10:15</td>
@@ -74,7 +74,7 @@ The workshop will be preceded by <a href="https://github.com/w3c-cg/webagents/tr
 
 <h2>Keynote</h2>
 
-<h3 id="keynote-terry">Terry R. Payne: TBA</h3>
+<h3 id="keynote-terry">Terry R. Payne: Autonomy, the Web and Knowledge-based Services</h3>
 
 ![Terry R. Payne](/assets/terry-payne.webp){: width="200" style="float: left; margin-right: 20px" }
 
@@ -92,7 +92,7 @@ The workshop will be preceded by <a href="https://github.com/w3c-cg/webagents/tr
     </tr>
     <tr>
         <td>11:15</td>
-        <td><a href="#paper-2">Affordance Representation and Recognition for Autonomous Agents</a> (Habtom Kahsay Gidey, Alexander Lenz, and Alois Knoll)</td>
+        <td><a href="#paper-2">Affordance Representation and Recognition for Autonomous Agents</a> (Habtom Kahsay Gidey, Niklas Huber, Alexander Lenz, and Alois Knoll)</td>
     </tr>
     <tr>
         <td>11:30</td>
@@ -113,7 +113,7 @@ The workshop will be preceded by <a href="https://github.com/w3c-cg/webagents/tr
 
 <h3 id="paper-2">Affordance Representation and Recognition for Autonomous Agents</h3>
 
-**Authors:** Habtom Kahsay Gidey, Alexander Lenz, and Alois Knoll
+**Authors:** Habtom Kahsay Gidey, Niklas Huber, Alexander Lenz, and Alois Knoll
 
 **Abstract:** The autonomy of software agents is fundamentally dependent on their ability to construct an actionable internal world model from the structured data that defines their digital environment, such as the Document Object Model (DOM) of web pages and the semantic descriptions of web services. However, constructing this world model from raw structured data presents two critical challenges: the verbosity of raw HTML makes it computationally intractable for direct use by foundation models, while the static nature of hardcoded API integrations prevents agents from adapting to evolving services. This paper introduces a pattern language for world modeling from structured data, presenting two complementary architectural patterns. The DOM Transduction Pattern addresses the challenge of web page complexity by distilling a verbose, raw DOM into a compact, task-relevant representation or world model optimized for an agent's reasoning core. Concurrently, the Hypermedia Affordances Representation Pattern enables the agent to dynamically enrich its world model by parsing standardized semantic descriptions to discover and integrate the capabilities of unknown web services at runtime. Together, these patterns provide a robust framework for engineering agents that can efficiently construct and maintain an accurate world model, enabling scalable, adaptive, and interoperable automation across the web and its extended resources.
 
