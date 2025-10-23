@@ -14,9 +14,7 @@ table td:first-child {
 }
 </style>
 
-HyperAgents 2025 is held on <strong>October 26, 2025</strong>, at <a href="https://ecai2025.org/venues/" target="_blank">The Engineering School, University of Bologna</a>. The room will be announced once confirmed.
-
-The workshop will be preceded by <a href="https://github.com/w3c-cg/webagents/tree/main/Meetings/2025-10-25-HyperAgents" target="_blank">a hybrid meeting</a> of the <a href="https://www.w3.org/community/webagents/" target="_blank">W3C WebAgents Community Group</a> on the <strong>afternoon of October 25, 2025</strong> — also at the Engineering School (<strong>Room 5.1</strong>).
+<p>HyperAgents 2025 is held on <strong>October 26, 2025</strong>, at <a href="https://ecai2025.org/venues/" target="_blank">The Engineering School, University of Bologna</a>. The workshop will be preceded by <a href="https://github.com/w3c-cg/webagents/tree/main/Meetings/2025-10-25-HyperAgents" target="_blank">a hybrid meeting</a> of the <a href="https://www.w3.org/community/webagents/" target="_blank">W3C WebAgents Community Group</a> on the <strong>afternoon of October 25, 2025</strong> — also at the Engineering School (<strong>Sala del Consiglio</strong>).</p>
 
 <table>
     <thead></thead>
