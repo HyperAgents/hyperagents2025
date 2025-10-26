@@ -80,6 +80,8 @@ table td:first-child {
 
 <h2 id="session1">Session 1: Agents in Web Environments</h2>
 
+<h3>Chair: Andreas Harth</h3>
+
 <p style="text-align: right;"><a href="#top" style="padding: 5px 10px; background-color: #8BC34A; color: white; text-decoration: none; border-radius: 3px;">↑ Back to Program</a></p>
 
 <table>
@@ -132,6 +134,8 @@ table td:first-child {
 
 
 <h2 id="session2">Session 2: Web of Things, Ambient Intelligence, and Industrial Applications</h2>
+
+<h3>Chair: Antoine Zimmermann</h3>
 
 <p style="text-align: right;"><a href="#top" style="padding: 5px 10px; background-color: #8BC34A; color: white; text-decoration: none; border-radius: 3px;">↑ Back to Program</a></p>
 
@@ -186,6 +190,8 @@ table td:first-child {
 
 <h2 id="session3">Session 3: LLM Support and Integration</h2>
 
+<h3>Chair: Rem Collier</h3>
+
 <p style="text-align: right;"><a href="#top" style="padding: 5px 10px; background-color: #8BC34A; color: white; text-decoration: none; border-radius: 3px;">↑ Back to Program</a></p>
 
 <table>
@@ -238,6 +244,8 @@ table td:first-child {
 
 
 <h2 id="session4">Session 4: Interaction and Explainability</h2>
+
+<h3>Chair: Simon Mayer</h3>
 
 <p style="text-align: right;"><a href="#top" style="padding: 5px 10px; background-color: #8BC34A; color: white; text-decoration: none; border-radius: 3px;">↑ Back to Program</a></p>
 
