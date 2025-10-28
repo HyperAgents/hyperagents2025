@@ -20,15 +20,15 @@ table td:first-child {
     <thead></thead>
     <tr>
         <td>09:00</td>
-        <td>Opening and Welcome</td>
+        <td>Opening and Welcome [<a href="/assets/slides/hyperagents2025-welcome.pdf" target="_blank">Slides</a>]</td>
     </tr>
     <tr>
         <td>09:15</td>
-        <td><a href="#keynote-terry">Keynote: Terry R. Payne (University of Liverpool) — Autonomy, the Web and Knowledge-based Services</a></td>
+        <td><a href="#keynote-terry">Keynote: Terry R. Payne (University of Liverpool) — Autonomy, the Web and Knowledge-based Services</a> [<a href="/assets/slides/hyperagents2025-keynote.pdf" target="_blank">Slides</a>]</td>
     </tr>
     <tr>
         <td>10:15</td>
-        <td>W3C WebAgents CG</td>
+        <td>W3C WebAgents CG [<a href="/assets/slides/hyperagents2025-webagentscg.pdf" target="_blank">Slides</a>]</td>
     </tr>
     <tr style="background-color: #dddddd">
         <td>10:30</td>
@@ -60,7 +60,7 @@ table td:first-child {
     </tr>
     <tr>
         <td>16:00</td>
-        <td><strong>Panel</strong>: Agents, LLMs, and the Web — A Brave New World? <br/><br/>
+        <td><strong>Panel</strong>: Agents, LLMs, and the Web — A Brave New World?  [<a href="/assets/slides/hyperagents2025-panel.pdf" target="_blank">Slides</a>]<br/><br/>
             <i>Panelists: Stephen Cranefield (University of Otago), Terry R. Payne (University of Liverpool), Ganesh Ramanathan (Siemens), Alessandro Ricci (University of Bologna)</i> <br/><br/> 
             <i>Moderator: Andrei Ciortea (Univesity of St.Gallen)</i></td>
     </tr>
@@ -77,6 +77,8 @@ table td:first-child {
 ![Terry R. Payne](/assets/terry-payne.webp){: width="200" style="float: left; margin-right: 20px" }
 
 **Bio:** Terry has been conducting research in the area of agent-based computing and knowledge-based systems and services for the last 30 years, and has published more than 195 peer-reviewed papers in the area. His specific interest is in the use of ontological knowledge for the support of agent-based service discovery and provision and is currently exploring the exploration of dialogue-based negotiation approaches to establish contextually-relevant ontological alignment between interacting agents on the fly. This supports the longer term aim of describing, discovering and utilising capability descriptions that agents offer or exploit when collaborating within open and pervasive environments, such as the Internet of Things. He has received numerous research awards, including a Best Industrial Paper award in 2006, and two Distinguished Research paper awards in 2011 & 2012 that recognised his fundamental contribution to his research field his research. He was Program co-chair for the International Semantic Web Conference in 2023, and is a member of SWSA - the Semantic Web Science Association, responsible for promoting and exchanging scholarly work in Semantic Web and related fields throughout the world. He is a Senior Fellow of the Higher Education Authority (SFHEA), and was also awarded a University Learning & Teaching Excellence award in 2013, 2016, 2019 and 2022 for innovative and technology enhanced teaching. His teaching was also recognised by the student body in 2016 when he was awarded the Guild of Students Best Teacher (Faculty of Science) Award.
+
+<a href="/assets/slides/hyperagents2025-keynote.pdf" target="_blank">Slides</a>
 
 <h2 id="session1">Session 1: Agents in Web Environments</h2>
 
