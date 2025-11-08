@@ -14,6 +14,10 @@ table td:first-child {
 }
 </style>
 
+<p>
+    <strong style="color: red">News:</strong> The <a href="https://ceur-ws.org/Vol-4084/">HyperAgents 2025 Proceedings Volume</a> is now available.
+</p>
+
 <p>HyperAgents 2025 is held on <strong>October 26, 2025</strong>, at <a href="https://ecai2025.org/venues/" target="_blank">The Engineering School, University of Bologna</a>. The workshop will be preceded by <a href="https://github.com/w3c-cg/webagents/tree/main/Meetings/2025-10-25-HyperAgents" target="_blank">a hybrid meeting</a> of the <a href="https://www.w3.org/community/webagents/" target="_blank">W3C WebAgents Community Group</a> on the <strong>afternoon of October 25, 2025</strong> — also at the Engineering School (<strong>Sala del Consiglio</strong>).</p>
 
 <table>
@@ -108,7 +112,8 @@ table td:first-child {
 
 **Abstract:** This paper reviews agent frameworks and benchmark datasets for software agents evolving in a Web environment. All frameworks and datasets make the assumption that agents interact with their environment through text and images alone, hiding the main abstractions of the Web and its architectural constraints. This study raises the question whether software agents that leverage structured data instead, mostly available in an RDF format, can be more accurate or more computationally efficient than agents based on chatbots.
 
-<a href="https://interactions.ics.unisg.ch/hyperagents2025/8341.pdf" target="_blank">Read pre-print</a>
+<a href="https://ceur-ws.org/Vol-4084/short1.pdf" target="_blank">Read paper</a><br/>
+<a href="/assets/slides/short1-slides.pdf" target="_blank">Slides</a>
 
 <p style="text-align: right;"><a href="#session1" style="padding: 5px 10px; background-color: #8BC34A; color: white; text-decoration: none; border-radius: 3px;">↑ Back to Session</a></p>
 
@@ -119,7 +124,7 @@ table td:first-child {
 
 **Abstract:** The autonomy of software agents is fundamentally dependent on their ability to construct an actionable internal world model from the structured data that defines their digital environment, such as the Document Object Model (DOM) of web pages and the semantic descriptions of web services. However, constructing this world model from raw structured data presents two critical challenges: the verbosity of raw HTML makes it computationally intractable for direct use by foundation models, while the static nature of hardcoded API integrations prevents agents from adapting to evolving services. This paper introduces a pattern language for world modeling from structured data, presenting two complementary architectural patterns. The DOM Transduction Pattern addresses the challenge of web page complexity by distilling a verbose, raw DOM into a compact, task-relevant representation or world model optimized for an agent's reasoning core. Concurrently, the Hypermedia Affordances Representation Pattern enables the agent to dynamically enrich its world model by parsing standardized semantic descriptions to discover and integrate the capabilities of unknown web services at runtime. Together, these patterns provide a robust framework for engineering agents that can efficiently construct and maintain an accurate world model, enabling scalable, adaptive, and interoperable automation across the web and its extended resources.
 
-<a href="https://interactions.ics.unisg.ch/hyperagents2025/9954.pdf" target="_blank">Read pre-print</a>
+<a href="https://ceur-ws.org/Vol-4084/short2.pdf" target="_blank">Read paper</a>
 
 <p style="text-align: right;"><a href="#session1" style="padding: 5px 10px; background-color: #8BC34A; color: white; text-decoration: none; border-radius: 3px;">↑ Back to Session</a></p>
 
@@ -130,7 +135,8 @@ table td:first-child {
 
 **Abstract:** Traditional BDI agents, rooted in logic programming, remain challenging to integrate with the hypermedia nature of open Web environments that rely on Semantic Web technologies like RDF and OWL. This paper examines the gap between these paradigms and surveys existing integration efforts on a conceptual and technical level and argues that existing tools offer limited ergonomic support for developers. Our proposal for a deeper integration relies on a generalized BDI engine to enable the development of BDI agents that can directly reason and operate on semantic hypermedia resources. We derive ideal requirements and show an abstract architecture that can be tailored to support different types of beliefs and reasoning mechanisms.
 
-<a href="https://interactions.ics.unisg.ch/hyperagents2025/5187.pdf" target="_blank">Read pre-print</a>
+<a href="https://ceur-ws.org/Vol-4084/short3.pdf" target="_blank">Read paper</a><br/>
+<a href="/assets/slides/short3-slides.pdf" target="_blank">Slides</a>
 
 <p style="text-align: right;"><a href="#session1" style="padding: 5px 10px; background-color: #8BC34A; color: white; text-decoration: none; border-radius: 3px;">↑ Back to Session</a></p>
 
@@ -163,7 +169,7 @@ table td:first-child {
 
 **Abstract:** Cyber-physical devices (CPDs) are now widely employed in environments like smart buildings and factories. Many of these devices are involved in managing physical processes, such as the transformation of substances and energy. When it comes to achieving adaptive behavior through autonomous artificial agents that use such CPDs as artifacts in the pursuit of their goals, understanding (by the agent) both the technical interface of a CPD and its underlying physical processes becomes important. The W3C Web of Things Thing Description (TD) standard aims to address this challenge; however, hitherto, only the possibility of achieving technical interoperability has been explored, while the inclusion of the semantics of underlying physical processes remains to be explored. In this article, we describe our work in progress, which seeks to demonstrate how existing models that enable the description of physical processes can be used to embed such knowledge directly in the TDs. We further explore how this may enable artificial agents in a hypermedia environment to discover and utilize distributed CPDs without relying on a centralized, authoritative source of knowledge. We present intermediate results from our evaluation of an intelligent room automation system that demonstrates adaptive behavior through runtime discovery of CPD affordances.
 
-<a href="https://interactions.ics.unisg.ch/hyperagents2025/8482.pdf" target="_blank">Read pre-print</a>
+<a href="https://ceur-ws.org/Vol-4084/short4.pdf" target="_blank">Read paper</a>
 
 <p style="text-align: right;"><a href="#session2" style="padding: 5px 10px; background-color: #8BC34A; color: white; text-decoration: none; border-radius: 3px;">↑ Back to Session</a></p>
 
@@ -174,7 +180,7 @@ table td:first-child {
 
 **Abstract:** Goal-driven interaction in Smart Environments brings significant challenges due to the variety of devices, the heterogeneity or lack of formal specifications for affordances, and the complexity of planning. Recent advances in hypermedia-based MAS and reasoning-capable foundational machine learning models are making goal-driven interaction frameworks realistically plausible. We demonstrate a prototype framework for the management of goal-driven smart environment interactions that builds upon: (i) Hypermedia MAS environment modeling, (ii) resource signification to capture usage experience, (iii) LLM support for agent reasoning, and (iv) the formation of communities in which agents can leverage the experience of peers to better achieve their own goals. We showcase framework functionality in a smart office simulated scenario.
 
-<a href="https://interactions.ics.unisg.ch/hyperagents2025/2141.pdf" target="_blank">Read pre-print</a>
+<a href="https://ceur-ws.org/Vol-4084/short5.pdf" target="_blank">Read paper</a>
 
 <p style="text-align: right;"><a href="#session2" style="padding: 5px 10px; background-color: #8BC34A; color: white; text-decoration: none; border-radius: 3px;">↑ Back to Session</a></p>
 
@@ -185,7 +191,7 @@ table td:first-child {
 
 **Abstract:** Industrial infrastructures employ control systems to manage their complex electro-mechanical installations in a safe and energy-efficient way. Semantic Web technologies have been utilized to create machine-understandable descriptions of requirements, technical design, and fundamental domain knowledge, yielding promising results in enabling the automated engineering of controls and, more broadly, in the development of autonomous systems. Concurrently, industrial automation systems are increasingly adopting the Web architecture. In this article, we first report on our experience gathered over the past decade at Siemens AG in bringing the fragmented Semantic Web-based ontologies in engineering towards creating holistic system knowledge of smart infrastructures. Then, based on our practical experience, we share that the role of Semantic Web technologies goes beyond enabling automated engineering and highlight its potential to create knowledge-infused web-based autonomous systems. However, we note that the potential is currently under-exploited in the context of evolution in industrial automation systems, where classical closed architectures are giving way to large-scale web-based deployments. We then describe our ongoing research to address this dissonance by adopting hypermedia multi-agent systems as an architectural paradigm in industrial automation.
 
-<a href="https://interactions.ics.unisg.ch/hyperagents2025/6289.pdf" target="_blank">Read pre-print</a>
+<a href="https://ceur-ws.org/Vol-4084/short6.pdf" target="_blank">Read paper</a>
 
 <p style="text-align: right;"><a href="#session2" style="padding: 5px 10px; background-color: #8BC34A; color: white; text-decoration: none; border-radius: 3px;">↑ Back to Session</a></p>
 
@@ -218,7 +224,7 @@ table td:first-child {
 
 **Abstract:** Advances in the Semantic Web and the Web of Things have enabled the dynamic advertisement of interaction descriptions, which allow autonomous agents to discover and reason about actions in hypermedia environments. However, these descriptions occasionally fall short in open, dynamic settings—for example, they may contain incomplete knowledge about unexpected situations, or information that does not directly address the needs of heterogeneous agents. In practice, such gaps are typically bridged by humans, often relying on their common sense. In this paper, we envision the integration of Large Language Models (LLMs) into Hypermedia Multi-Agent Systems (MAS) to leverage their world knowledge to fill information gaps at run time and enable scalable support for agent interaction in open and dynamic hypermedia environments. Our proposal lays the groundwork for a framework that considers LLM-based assistive functions for interaction in Hypermedia MAS, enabling the parameterisation and contextual grounding of interaction, methods for agents to leverage this assistance, and safeguards to ensure integrity and transparency. With these ideas, our aim is to inspire further research exploring the extent to which LLMs can assist in managing semantic descriptions in hypermedia environments at run time, while balancing scalable interaction assistance with identified challenges.
 
-<a href="https://interactions.ics.unisg.ch/hyperagents2025/3251.pdf" target="_blank">Read pre-print</a>
+<a href="https://ceur-ws.org/Vol-4084/short7.pdf" target="_blank">Read paper</a>
 
 <p style="text-align: right;"><a href="#session3" style="padding: 5px 10px; background-color: #8BC34A; color: white; text-decoration: none; border-radius: 3px;">↑ Back to Session</a></p>
 
@@ -229,7 +235,8 @@ table td:first-child {
 
 **Abstract:** More than two decades ago, the concept of the Semantic Web was motivated by a vision of personal assistant agents that fulfil users' goals by locating, accessing and reasoning about information and services on the web. Until the recent advent of agents that can act on instructions generated by large language models (LLMs), progress towards this vision has been slow. Now, the natural language understanding abilities of LLMs and their emerging ability to generate and follow instructions suggest that LLM-powered agents may provide a path towards developing such general-purpose assistant agents. This paper presents a case study of automating a multi-step web-based information seeking and filtering task using a large language model provided with tool access via the Model Context Protocol (MCP) and information about relevant web resources. We found this was possible, but only by providing the LLM with detailed information about how to use the resources. We discuss the reasons for this and how this requirement could be eliminated by providing discovery mechanisms and web page usage information intended for LLMs. We also propose the development of higher-level models of web resources in terms of information processing goals or tasks.
 
-<a href="https://interactions.ics.unisg.ch/hyperagents2025/3762.pdf" target="_blank">Read pre-print</a>
+<a href="https://ceur-ws.org/Vol-4084/short8.pdf" target="_blank">Read paper</a><br/>
+<a href="/assets/slides/short8-slides.pdf" target="_blank">Slides</a>
 
 <p style="text-align: right;"><a href="#session3" style="padding: 5px 10px; background-color: #8BC34A; color: white; text-decoration: none; border-radius: 3px;">↑ Back to Session</a></p>
 
@@ -240,7 +247,7 @@ table td:first-child {
 
 **Abstract:** The evolution of LLM-powered agents has led to a distinction between single-purpose AI Agents and collaborative Agentic AI systems. While powerful, both face persistent challenges in grounding, interoperability, and governance when operating in open Web environments. This paper argues that a new, more robust paradigm is emerging from a deep convergence of architectural principles and modern standards. We posit that Hypermedia Multi-Agent Systems (HMAS) provide the foundational philosophy for Web-native agency, where the concepts of W3C Web of Things (WoT) "Things" and Model Context Protocol (MCP) "Tools" are unified as complementary specializations of hypermedia-described Web resources with discoverable affordances. This unified view enables the design of advanced Agentic AI systems—composed of autonomous AI Agents grounded in foundational definitions of agency—that can reliably perceive and act upon a rich environmental fabric of physical (WoT) and semantic (DKG) resources. By analyzing this convergence and presenting an illustrative agentic architecture, we demonstrate how this paradigm offers enhanced grounding, true interoperability, and clearer pathways to trustworthy governance, providing a structured approach for developing the next generation of scalable and context-aware autonomous systems.
 
-<a href="https://interactions.ics.unisg.ch/hyperagents2025/1096.pdf" target="_blank">Read pre-print</a>
+<a href="https://ceur-ws.org/Vol-4084/short9.pdf" target="_blank">Read paper</a>
 
 <p style="text-align: right;"><a href="#session3" style="padding: 5px 10px; background-color: #8BC34A; color: white; text-decoration: none; border-radius: 3px;">↑ Back to Session</a></p>
 
@@ -273,7 +280,8 @@ table td:first-child {
 
 **Abstract:** Agentic Large Language Models (LLMs) are designed for specialized objectives using fine-tuning, prompting techniques, and tool calling to outperform general-purpose models in their expert domains. Standardization efforts like the Agent2Agent Protocol could drastically increase the number and heterogeneity of experts available via the Web. A router is required to find the best agent for any given task. However, existing LLM routing methods use a fixed-sized pool of models and often rely on offline training data such as benchmarks. We propose CoCoMaMa and Neural-CoCoMaMa, a combinatorial contextual volatile multi-armed bandit approach that leverages similarities between tasks and agents by learning on online feedback. It can handle volatile arms by incorporating agent cards as defined by the Agent2Agent Protocol without requiring changes to the internal structures or retraining. Our experimental evaluation shows that CoCoMaMa and Neural-CoCoMaMa achieve better results than respective state-of-the-art algorithms using the LLM routing dataset SPROUT and a novel extended version of SPROUT with synthetic specialized agents.
 
-<a href="https://interactions.ics.unisg.ch/hyperagents2025/4889.pdf" target="_blank">Read pre-print</a>
+<a href="https://ceur-ws.org/Vol-4084/short10.pdf" target="_blank">Read paper</a><br/>
+<a href="/assets/slides/short10-slides.pdf" target="_blank">Slides</a>
 
 <p style="text-align: right;"><a href="#session4" style="padding: 5px 10px; background-color: #8BC34A; color: white; text-decoration: none; border-radius: 3px;">↑ Back to Session</a></p>
 
@@ -284,7 +292,7 @@ table td:first-child {
 
 **Abstract:** In the age of agentic systems, correct autonomous data management is increasingly critical. Agents need to discover what resources exist and how to interact with them, but existing interface description frameworks that could provide such support either leave too much open to interpretation or fail to model underlying resources, which are not directly exposed. To address this gap, we propose a declarative description that describes underlying resources and their transformations by modeling interfaces as algebraic flows that declaratively define how underlying resources are exposed, derived, and manipulated. We detail our vision by walking through an example use case that showcases the various problems agents have when interacting with data interfaces and incrementally present our solution of modeling how data flows within the system. Our approach shows that interface developers can express their systems using familiar query languages, while enabling autonomous agents to reason about the consequences of actions and determine required operations to manipulate resources safely and predictably. This makes deterministic interactions with complex, asymmetric information interfaces possible. Looking ahead, we aim to formalize this approach into a theoretically sound framework with a proof-of-concept implementation. Additionally, we identify promising avenues for integrating policy-aware semantics and privacy-preserving interface disclosure.
 
-<a href="https://interactions.ics.unisg.ch/hyperagents2025/8167.pdf" target="_blank">Read pre-print</a>
+<a href="https://ceur-ws.org/Vol-4084/short11.pdf" target="_blank">Read paper</a>
 
 <p style="text-align: right;"><a href="#session4" style="padding: 5px 10px; background-color: #8BC34A; color: white; text-decoration: none; border-radius: 3px;">↑ Back to Session</a></p>
 
@@ -295,6 +303,6 @@ table td:first-child {
 
 **Abstract:** Inter-agent explanations are an emerging approach to agent communication that enable agents to share their cognitive processes in order to reach mutual understanding. A key challenge is that agents are often heterogeneous, built on different paradigms and architectures, which makes their internal representations difficult to exchange directly. The Semantic Web offers key technologies, in the form of ontologies, that can facilitate interoperability and shared understanding between hypermedia agents operating on the Web. We present work towards providing Agent Abstraction ontologies that would allow hypermedia agents to abstract and exchange information about their cognitive processes as part of inter-agent explanations.
 
-<a href="https://interactions.ics.unisg.ch/hyperagents2025/1038.pdf" target="_blank">Read pre-print</a>
+<a href="https://ceur-ws.org/Vol-4084/paper1.pdf" target="_blank">Read paper</a>
 
 <p style="text-align: right;"><a href="#session4" style="padding: 5px 10px; background-color: #8BC34A; color: white; text-decoration: none; border-radius: 3px;">↑ Back to Session</a></p>
